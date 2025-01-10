@@ -10,3 +10,5 @@ FEL HITTADE:
 4 Order processing console loggar ingenting, och alla ordrar uppdateras endast till status "processing". 
 
 5 POST order calculate : last-test failar efter två iterationer. 
+
+6. Verkar fungera som den ska. 
