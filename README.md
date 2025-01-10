@@ -17,4 +17,4 @@ FEL HITTADE:
 
 8 Kan ej processera flera ordrar samtidigt, overload. Vid för många post requests på kort tid så går ungefär hälften igenom. 
 
-9. Får ej lov att länka ordrar, får felet "Converting circular structure to JSON, relationship closes the circle". 
+9 Får ej lov att länka ordrar, får felet "Converting circular structure to JSON, relationship closes the circle". 
