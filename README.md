@@ -14,3 +14,5 @@ FEL HITTADE:
 6 Verkar fungera som den ska. 
 
 7 Inga fel kastas oavsett vilka fält du uppdaterar till vad som helst. 
+
+8 Kan ej processera flera ordrar samtidigt, overload. 
