@@ -15,4 +15,4 @@ FEL HITTADE:
 
 7 Inga fel kastas oavsett vilka fält du uppdaterar till vad som helst. 
 
-8 Kan ej processera flera ordrar samtidigt, overload. 
+8 Kan ej processera flera ordrar samtidigt, overload. Vid för många post requests på kort tid så går ungefär hälften igenom. 
