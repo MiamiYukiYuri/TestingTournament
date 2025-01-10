@@ -6,3 +6,5 @@ FEL HITTADE:
 2 GET api/orders/:id : orders/:id loggar inte fel.
 
 3 PATCH orders/:id : Du får lov att sätta tomma strängar på alla parametrar vilket tillåter att man ändrar i customerId, status, osv. 
+
+4 Order processing console loggar ingenting. 
