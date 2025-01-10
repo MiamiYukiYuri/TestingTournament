@@ -8,3 +8,5 @@ FEL HITTADE:
 3 PATCH orders/:id : Du får lov att sätta tomma strängar på alla parametrar vilket tillåter att man ändrar i customerId, status, osv. 
 
 4 Order processing console loggar ingenting, och alla ordrar uppdateras endast till status "processing". 
+
+5 POST order calculate : last-test failar efter två iterationer. 
