@@ -19,4 +19,4 @@ FEL HITTADE:
 
 9 Får ej lov att länka ordrar, får felet "Converting circular structure to JSON, relationship closes the circle". 1P
 
-6/10
+7/10
