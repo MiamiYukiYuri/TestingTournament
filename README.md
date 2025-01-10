@@ -11,4 +11,4 @@ FEL HITTADE:
 
 5 POST order calculate : last-test failar efter två iterationer. 
 
-6. Verkar fungera som den ska. 
+6 Verkar fungera som den ska. 
